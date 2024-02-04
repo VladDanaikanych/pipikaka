@@ -1,0 +1,56 @@
+header {
+    font-size: 25px;
+}
+main {
+    font-size: 20px;
+}
+html{
+    background-color:rgb(169, 168, 168);;
+}
+main img{
+    width: 2200px;
+    height:600px;
+}
+header img{
+    width:125px;
+    height:100px;
+}
+header h1 {
+    text-align: center;
+    font-size: 70px;
+    background-color: rgb(82, 82, 82);
+}
+main{
+    background-color:rgb(169, 168, 168);
+}
+header{
+    background-color: rgb(169, 168, 168);
+}
+body{
+    background-color: rgb(169, 168, 168);
+}
+table td {
+    font-size: 20px;
+}
+table td img {
+    width: 200px;
+    height:200px;
+}
+table {
+    background-color: burlywood;
+}
+title {
+    border:5px red;
+}
+footer{
+    font-size: 30px;
+}
+a {
+    text-decoration: none;
+}
+footer{
+    text-align: center;
+}
+main p {
+    font-size: 23px;
+}
